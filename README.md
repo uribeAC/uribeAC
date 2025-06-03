@@ -15,7 +15,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=uribeAC&show_icons=true&theme=radical" alt="uribeAC GitHub stats"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical" alt="Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uribeAC&layout=donut&theme=radical" alt="Top Langs"/>
       </td>
     </tr>
   </table>
